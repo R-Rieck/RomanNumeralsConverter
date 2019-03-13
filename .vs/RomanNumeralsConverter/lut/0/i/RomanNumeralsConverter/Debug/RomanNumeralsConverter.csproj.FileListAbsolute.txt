@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\b\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\b\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\b\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\i\RomanNumeralsConverter\Debug\RomanNumeralsConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\i\RomanNumeralsConverter\Debug\RomanNumeralsConverter.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\.vs\RomanNumeralsConverter\lut\0\i\RomanNumeralsConverter\Debug\RomanNumeralsConverter.pdb
