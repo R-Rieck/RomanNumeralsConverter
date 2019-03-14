@@ -8,13 +8,23 @@ namespace RomanNumeralsConverter
 {
     public static class Converter
     {
-        public static int ConvertFromRomanToArabic(string roman)
+        public static void ConvertFromRomanToArabic(string roman)
+        {
+            Display(Convert(roman));
+        }
+
+        public static void Display(int number)
+        {
+            Console.WriteLine(number);
+        }
+        public static int Convert(string roman)
         {
             var result = 0;
             var romanNumberArray = roman.ToCharArray();
         
             for (int index = 0; index < romanNumberArray.Length; index++)
             {
+
                 if((index + 1) > romanNumberArray.Length - 1) { 
                     result += parseRomanToArabic(romanNumberArray[index]);
                     break;
@@ -24,6 +34,7 @@ namespace RomanNumeralsConverter
                 {
                     result += parseRomanToArabic(romanNumberArray[index]);
                 }
+
                 else if (parseRomanToArabic(romanNumberArray[index]) < parseRomanToArabic(romanNumberArray[index + 1]))
                 {
                     var value = parseRomanToArabic(romanNumberArray[index + 1]) - parseRomanToArabic(romanNumberArray[index]);
@@ -31,6 +42,7 @@ namespace RomanNumeralsConverter
 
                     result += value;
                 }
+
                 else
                 {
                     result += parseRomanToArabic(romanNumberArray[index]);

@@ -10,57 +10,49 @@ namespace RomanNumeralsConverter.Test
         [TestMethod]
         public void ConvertI()
         {
-            var result = Converter.ConvertFromRomanToArabic("I");
-            Assert.AreEqual(1, result);
+            Converter.ConvertFromRomanToArabic("I");
         }
 
         [TestMethod]
         public void ConvertII()
         {
-            var result = Converter.ConvertFromRomanToArabic("II");
-            Assert.AreEqual(2, result);
+            Converter.ConvertFromRomanToArabic("II");
         }
 
         [TestMethod]
         public void ConvertIV()
         {
-            var result = Converter.ConvertFromRomanToArabic("IV");
-            Assert.AreEqual(4, result);
+            Converter.ConvertFromRomanToArabic("IV");
         }
 
         [TestMethod]
         public void ConvertV()
         {
-            var result = Converter.ConvertFromRomanToArabic("V");
-            Assert.AreEqual(5, result);
+            Converter.ConvertFromRomanToArabic("V");
         }
 
         [TestMethod]
         public void ConvertIX()
         {
-            var result = Converter.ConvertFromRomanToArabic("IX");
-            Assert.AreEqual(9, result);
+            Converter.ConvertFromRomanToArabic("IX");
         }
 
         [TestMethod]
         public void ConvertXLII()
         {
-            var result = Converter.ConvertFromRomanToArabic("XLII");
-            Assert.AreEqual(42, result);
+            Converter.ConvertFromRomanToArabic("XLII");
         }
 
         [TestMethod]
         public void ConvertXCLX()
         {
-            var result = Converter.ConvertFromRomanToArabic("XCIX");
-            Assert.AreEqual(99, result);
+            Converter.ConvertFromRomanToArabic("XCIX");
         }
 
         [TestMethod]
         public void ConvertMMXIII()
         {
-            var result = Converter.ConvertFromRomanToArabic("MMXIII");
-            Assert.AreEqual(2013, result);
+            Converter.ConvertFromRomanToArabic("MMXIII");
         }
     }
 }

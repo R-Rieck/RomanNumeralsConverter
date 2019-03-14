@@ -10,3 +10,14 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\Roman
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.exe
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.exe
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.Test.exe.config
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.Test.exe
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.Test.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.exe
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.exe.config
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

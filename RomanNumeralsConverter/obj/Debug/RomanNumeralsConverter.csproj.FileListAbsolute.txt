@@ -5,3 +5,9 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\Roman
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.exe
 C:\Users\user\Documents\Visual Studio 2017\Projects\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe.config
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.exe
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.pdb
