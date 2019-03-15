@@ -10,6 +10,7 @@ namespace RomanNumeralsConverter
     {
         static void Main(string[] args)
         {
+            Converter.ConvertFromRomanToArabic("MMXIII");
         }
     }
 }

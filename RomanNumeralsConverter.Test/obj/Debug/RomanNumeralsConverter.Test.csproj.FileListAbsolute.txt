@@ -21,3 +21,4 @@ C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Tes
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.pdb
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\RomanNumeralsConverter.exe.config
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter.Test\obj\Debug\RomanNumeralsConverter.Test.csproj.CoreCompileInputs.cache

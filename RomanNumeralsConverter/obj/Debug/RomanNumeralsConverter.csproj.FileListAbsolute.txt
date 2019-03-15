@@ -11,3 +11,4 @@ C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\bin
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.exe
 C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.pdb
+C:\Users\user\Documents\GitHub\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csproj.CoreCompileInputs.cache

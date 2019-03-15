@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RomanNumeralsConverter
 {
-    public class Dictionary
+    public static class Dictionary
     {
-        public Dictionary<char, int> RomanToArabic = new Dictionary<char, int>()
+        public static Dictionary<char, int> RomanToArabic = new Dictionary<char, int>()
         {
             {'I' , 1 },
             {'V' , 5 },

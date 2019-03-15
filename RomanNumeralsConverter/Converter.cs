@@ -21,23 +21,26 @@ namespace RomanNumeralsConverter
         {
             var result = 0;
             var romanNumberArray = roman.ToCharArray();
-        
+
             for (int index = 0; index < romanNumberArray.Length; index++)
             {
+                var romanCharToNumber = Dictionary.RomanToArabic.Single(x => x.Key == romanNumberArray[index]).Value;
+                var nextRomanCharToNumber = Dictionary.RomanToArabic.Single(x => x.Key == romanNumberArray[index + 1]).Value;
 
-                if((index + 1) > romanNumberArray.Length - 1) { 
-                    result += parseRomanToArabic(romanNumberArray[index]);
+                if (((index + 1) > romanNumberArray.Length - 1))
+                {
+                    result += romanCharToNumber;
                     break;
                 }
 
-                if (parseRomanToArabic(romanNumberArray[index]) > parseRomanToArabic(romanNumberArray[index + 1]))
+                else if (romanCharToNumber > nextRomanCharToNumber)
                 {
-                    result += parseRomanToArabic(romanNumberArray[index]);
+                    result += romanCharToNumber;
                 }
 
-                else if (parseRomanToArabic(romanNumberArray[index]) < parseRomanToArabic(romanNumberArray[index + 1]))
+                else if (romanCharToNumber < nextRomanCharToNumber)
                 {
-                    var value = parseRomanToArabic(romanNumberArray[index + 1]) - parseRomanToArabic(romanNumberArray[index]);
+                    var value = nextRomanCharToNumber - romanCharToNumber;
                     index++;
 
                     result += value;
@@ -45,16 +48,11 @@ namespace RomanNumeralsConverter
 
                 else
                 {
-                    result += parseRomanToArabic(romanNumberArray[index]);
+                    result += romanCharToNumber;
                 }
             }
 
             return result;
-        }
-
-        private static int parseRomanToArabic (char roman)
-        {
-            return new Dictionary().RomanToArabic.Single(x => x.Key == roman).Value;
         }
     }
 }
